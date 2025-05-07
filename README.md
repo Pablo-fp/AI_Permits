@@ -1,4 +1,4 @@
-# Boston2025 Data Processing Pipeline, Original work by Yair Titelboim
+# Boston2025 Data Processing Pipeline, Original work by Yair Titelboim with some edits mainly to use Gemini instead of OpenAI
 
 This repository contains a Google Colab notebook that replicates the three-phase data processing pipeline for the Boston2025 project, which tests the hypothesis that traditional urban economic models underestimate cross-project network effects by 30-50% in Boston.
 
