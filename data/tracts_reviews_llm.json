@@ -1,0 +1,884 @@
+[
+  {
+    "GEOID": "25025010103",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "Seating",
+      "Coffee quality",
+      "Customer service"
+    ]
+  },
+  {
+    "GEOID": "25025010104",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "neighborhood",
+      "service",
+      "staff"
+    ]
+  },
+  {
+    "GEOID": "25025010204",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "location",
+      "parking",
+      "service"
+    ]
+  },
+  {
+    "GEOID": "25025010205",
+    "sentiment_score": 0.1,
+    "top_themes": [
+      "doctors office",
+      "pharmacy",
+      "customer service"
+    ]
+  },
+  {
+    "GEOID": "25025010206",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "guitar store experience",
+      "baseball merchandise",
+      "sausages"
+    ]
+  },
+  {
+    "GEOID": "25025010300",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "gifts",
+      "books",
+      "museum exhibitions"
+    ]
+  },
+  {
+    "GEOID": "25025010403",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "customer service",
+      "pricing",
+      "racial profiling"
+    ]
+  },
+  {
+    "GEOID": "25025010404",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "haircut",
+      "customer service",
+      "discrimination"
+    ]
+  },
+  {
+    "GEOID": "25025010405",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "nails",
+      "food",
+      "performances"
+    ]
+  },
+  {
+    "GEOID": "25025010500",
+    "sentiment_score": 0.7,
+    "top_themes": [
+      "photography classes",
+      "computer literacy program",
+      "toxic staff member"
+    ]
+  },
+  {
+    "GEOID": "25025010600",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "Boston Duck Tour",
+      "Lindt chocolates",
+      "Neiman Marcus"
+    ]
+  },
+  {
+    "GEOID": "25025010701",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "Emotional struggle",
+      "Frustration and desperation",
+      "Passion for TikTok"
+    ]
+  },
+  {
+    "GEOID": "25025010702",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "staff professionalism",
+      "customer service",
+      "prescription services"
+    ]
+  },
+  {
+    "GEOID": "25025010801",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Passion for teaching",
+      "Small school community",
+      "Hands-on learning"
+    ]
+  },
+  {
+    "GEOID": "25025010802",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "laundry services",
+      "pricing",
+      "restaurant experience"
+    ]
+  },
+  {
+    "GEOID": "25025020101",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "park",
+      "customer service",
+      "shopping"
+    ]
+  },
+  {
+    "GEOID": "25025020200",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "customer service",
+      "racial profiling",
+      "nail salon"
+    ]
+  },
+  {
+    "GEOID": "25025020301",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "nail tech",
+      "gel overlay",
+      "customer service"
+    ]
+  },
+  {
+    "GEOID": "25025020302",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "USPS service",
+      "Customer service",
+      "Hours of operation"
+    ]
+  },
+  {
+    "GEOID": "25025020304",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "management",
+      "staff",
+      "customer service"
+    ]
+  },
+  {
+    "GEOID": "25025020305",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "eye care",
+      "hair salon",
+      "concert"
+    ]
+  },
+  {
+    "GEOID": "25025030100",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "pizza",
+      "atmosphere",
+      "service"
+    ]
+  },
+  {
+    "GEOID": "25025030200",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "whiskey museum",
+      "store pricing",
+      "service"
+    ]
+  },
+  {
+    "GEOID": "25025030301",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "whale watching",
+      "tour guides",
+      "harbor cruise"
+    ]
+  },
+  {
+    "GEOID": "25025030302",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Rite Aid",
+      "customer service",
+      "wine."
+    ]
+  },
+  {
+    "GEOID": "25025030400",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "food quality",
+      "variety of pastries",
+      "cash only"
+    ]
+  },
+  {
+    "GEOID": "25025030500",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "pizza",
+      "service",
+      "atmosphere"
+    ]
+  },
+  {
+    "GEOID": "25025040100",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "staff",
+      "atmosphere",
+      "food"
+    ]
+  },
+  {
+    "GEOID": "25025040300",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "school",
+      "reunion",
+      "teachers"
+    ]
+  },
+  {
+    "GEOID": "25025040600",
+    "sentiment_score": 0.2,
+    "top_themes": [
+      "professors",
+      "financial aid",
+      "administration"
+    ]
+  },
+  {
+    "GEOID": "25025040801",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "food",
+      "atmosphere",
+      "service"
+    ]
+  },
+  {
+    "GEOID": "25025050200",
+    "sentiment_score": 0.7,
+    "top_themes": [
+      "gym equipment",
+      "cleanliness",
+      "staff"
+    ]
+  },
+  {
+    "GEOID": "25025050300",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "BBQ",
+      "Food quality",
+      "Service"
+    ]
+  },
+  {
+    "GEOID": "25025050400",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "community",
+      "classes",
+      "instructors"
+    ]
+  },
+  {
+    "GEOID": "25025050600",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "ambiance",
+      "food quality",
+      "customer service"
+    ]
+  },
+  {
+    "GEOID": "25025050901",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "coffee",
+      "pastries",
+      "baked goods"
+    ]
+  },
+  {
+    "GEOID": "25025051000",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Management",
+      "Staff",
+      "Cleanliness"
+    ]
+  },
+  {
+    "GEOID": "25025051101",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "aviation enthusiast",
+      "plane spotting",
+      "runway"
+    ]
+  },
+  {
+    "GEOID": "25025051200",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Somali food",
+      "MIT student center",
+      "Lamb Briani"
+    ]
+  },
+  {
+    "GEOID": "25025060101",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "food",
+      "atmosphere",
+      "service"
+    ]
+  },
+  {
+    "GEOID": "25025060301",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "groceries",
+      "service",
+      "bagels"
+    ]
+  },
+  {
+    "GEOID": "25025060400",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "atmosphere",
+      "food quality",
+      "service"
+    ]
+  },
+  {
+    "GEOID": "25025060501",
+    "sentiment_score": 0.3,
+    "top_themes": [
+      "Pharmacy service",
+      "Customer service",
+      "Clothing selection"
+    ]
+  },
+  {
+    "GEOID": "25025060601",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "oysters",
+      "tacos",
+      "vegan"
+    ]
+  },
+  {
+    "GEOID": "25025060602",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "food quality",
+      "service",
+      "atmosphere"
+    ]
+  },
+  {
+    "GEOID": "25025060603",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "food quality",
+      "service",
+      "atmosphere"
+    ]
+  },
+  {
+    "GEOID": "25025060604",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "salads",
+      "seafood",
+      "customer service"
+    ]
+  },
+  {
+    "GEOID": "25025060800",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "pizza",
+      "pasta",
+      "wings"
+    ]
+  },
+  {
+    "GEOID": "25025061101",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "Polish food",
+      "Customer service",
+      "Authenticity"
+    ]
+  },
+  {
+    "GEOID": "25025061201",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "food",
+      "service",
+      "atmosphere"
+    ]
+  },
+  {
+    "GEOID": "25025061203",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Donuts",
+      "Coffee",
+      "Service"
+    ]
+  },
+  {
+    "GEOID": "25025061204",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "staff",
+      "atmosphere",
+      "food"
+    ]
+  },
+  {
+    "GEOID": "25025070102",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "customer service",
+      "racial profiling",
+      "store experience"
+    ]
+  },
+  {
+    "GEOID": "25025070104",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "staff helpfulness",
+      "customer service",
+      "store location"
+    ]
+  },
+  {
+    "GEOID": "25025070201",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "hospital care",
+      "piano purchasing experience",
+      "trolley tour experience"
+    ]
+  },
+  {
+    "GEOID": "25025070202",
+    "sentiment_score": 0.3,
+    "top_themes": [
+      "banking",
+      "customer service",
+      "flowers"
+    ]
+  },
+  {
+    "GEOID": "25025070301",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "haircuts",
+      "barbershop",
+      "customer service"
+    ]
+  },
+  {
+    "GEOID": "25025070302",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Circle Furniture",
+      "Customer Service",
+      "Shopping Environment"
+    ]
+  },
+  {
+    "GEOID": "25025070402",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "customer service",
+      "racial profiling",
+      "store cleanliness"
+    ]
+  },
+  {
+    "GEOID": "25025070501",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "customer service",
+      "online banking",
+      "jewelry"
+    ]
+  },
+  {
+    "GEOID": "25025070502",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "staff professionalism",
+      "customer service",
+      "running gear"
+    ]
+  },
+  {
+    "GEOID": "25025070600",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "barber services",
+      "wine selection",
+      "dining experience"
+    ]
+  },
+  {
+    "GEOID": "25025070700",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "customer service",
+      "pharmacy",
+      "staff"
+    ]
+  },
+  {
+    "GEOID": "25025070801",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "nail salon",
+      "service",
+      "technician"
+    ]
+  },
+  {
+    "GEOID": "25025070802",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "haircut",
+      "barbers",
+      "service"
+    ]
+  },
+  {
+    "GEOID": "25025070901",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "food quality",
+      "service",
+      "ambiance"
+    ]
+  },
+  {
+    "GEOID": "25025070902",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "spirituality",
+      "tarot reading",
+      "Chinese cuisine"
+    ]
+  },
+  {
+    "GEOID": "25025071101",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "staff behavior",
+      "insurance coverage",
+      "mental health care"
+    ]
+  },
+  {
+    "GEOID": "25025071201",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "lighting",
+      "antique",
+      "customer service"
+    ]
+  },
+  {
+    "GEOID": "25025080100",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "staff",
+      "customer service",
+      "selection"
+    ]
+  },
+  {
+    "GEOID": "25025080401",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "clothing",
+      "customer service",
+      "shopping"
+    ]
+  },
+  {
+    "GEOID": "25025080601",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Ethiopian Market",
+      "customer service",
+      "injera"
+    ]
+  },
+  {
+    "GEOID": "25025080801",
+    "sentiment_score": 0.4,
+    "top_themes": [
+      "staff",
+      "service",
+      "food"
+    ]
+  },
+  {
+    "GEOID": "25025080900",
+    "sentiment_score": 0.7,
+    "top_themes": [
+      "Food quality",
+      "Service",
+      "Price"
+    ]
+  },
+  {
+    "GEOID": "25025081301",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "food quality",
+      "customer service",
+      "dining experience"
+    ]
+  },
+  {
+    "GEOID": "25025081302",
+    "sentiment_score": 0.1,
+    "top_themes": [
+      "Service Quality",
+      "Food Quality",
+      "Order Accuracy"
+    ]
+  },
+  {
+    "GEOID": "25025081400",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "college",
+      "staff",
+      "atmosphere"
+    ]
+  },
+  {
+    "GEOID": "25025081700",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "teachers",
+      "communication",
+      "college preparatory"
+    ]
+  },
+  {
+    "GEOID": "25025081800",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Staff",
+      "Communication",
+      "Education"
+    ]
+  },
+  {
+    "GEOID": "25025081900",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "food quality",
+      "customer service",
+      "ordering experience"
+    ]
+  },
+  {
+    "GEOID": "25025082000",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Food quality",
+      "Prices",
+      "Service"
+    ]
+  },
+  {
+    "GEOID": "25025082100",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "food quality",
+      "saltiness",
+      "customer service"
+    ]
+  },
+  {
+    "GEOID": "25025090100",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "bullying",
+      "academic quality",
+      "school environment"
+    ]
+  },
+  {
+    "GEOID": "25025090200",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "customer service",
+      "food quality",
+      "staff friendliness"
+    ]
+  },
+  {
+    "GEOID": "25025090600",
+    "sentiment_score": 0.5,
+    "top_themes": [
+      "education",
+      "school",
+      "neighborhood"
+    ]
+  },
+  {
+    "GEOID": "25025090700",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "customer service",
+      "store cleanliness",
+      "product selection"
+    ]
+  },
+  {
+    "GEOID": "25025090901",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "food quality",
+      "customer service",
+      "cleanliness"
+    ]
+  },
+  {
+    "GEOID": "25025091001",
+    "sentiment_score": 0.8,
+    "top_themes": [
+      "pharmacy",
+      "service",
+      "breakfast"
+    ]
+  },
+  {
+    "GEOID": "25025091100",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "food",
+      "service",
+      "brunch"
+    ]
+  },
+  {
+    "GEOID": "25025091200",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "wedding florals",
+      "floral arrangements",
+      "customer service"
+    ]
+  },
+  {
+    "GEOID": "25025091600",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "food quality",
+      "service",
+      "portion size"
+    ]
+  },
+  {
+    "GEOID": "25025091800",
+    "sentiment_score": 0.1,
+    "top_themes": [
+      "staff",
+      "care",
+      "school"
+    ]
+  },
+  {
+    "GEOID": "25025092000",
+    "sentiment_score": 0.2,
+    "top_themes": [
+      "pizza quality",
+      "delivery service",
+      "missing items"
+    ]
+  },
+  {
+    "GEOID": "25025092101",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "sandwiches",
+      "coffee",
+      "pastries"
+    ]
+  },
+  {
+    "GEOID": "25025120301",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "barbershop",
+      "fish sandwich",
+      "community"
+    ]
+  },
+  {
+    "GEOID": "25025981202",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "food",
+      "service",
+      "atmosphere"
+    ]
+  },
+  {
+    "GEOID": "25025981300",
+    "sentiment_score": 0.6,
+    "top_themes": [
+      "food quality",
+      "customer service",
+      "pricing"
+    ]
+  },
+  {
+    "GEOID": "25025981700",
+    "sentiment_score": 0.9,
+    "top_themes": [
+      "Ice Skating",
+      "Atmosphere",
+      "Price/Value"
+    ]
+  }
+]
