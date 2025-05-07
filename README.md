@@ -1,4 +1,4 @@
-# Boston2025 Data Processing Pipeline
+# Boston2025 Data Processing Pipeline, Original work by Yair Titelboim
 
 This repository contains a Google Colab notebook that replicates the three-phase data processing pipeline for the Boston2025 project, which tests the hypothesis that traditional urban economic models underestimate cross-project network effects by 30-50% in Boston.
 
@@ -9,11 +9,13 @@ The Boston2025 project analyzes the relationship between review activity and per
 ## Pipeline Phases
 
 1. **Phase 1: Data Collection and Processing**
+
    - Load census tract boundaries and pre-processed uplift data
    - Load and clean review data
    - Visualize baseline and uplift values by census tract
 
 2. **Phase 2: LLM Analysis for Sentiment and Themes**
+
    - Load pre-processed LLM data with sentiment scores and themes
    - Analyze sentiment score distributions and top themes
    - Merge LLM results with tract boundaries
